@@ -18,11 +18,11 @@
 Представление на сайте производится в строгом соответствии с законодательством. При изменении законодательства в ИС MagicSite вносятся соответствующие правки, что автоматически находит отражение на сайте пользователя. Пользователь избавлен от необходимости отслеживать требования к сайтам образовательных организаций – достаточно заполнять поля ИС MagicSite. Данные попадают в систему мониторинга сайтов.
 
 Модуль представлен в трех версиях
-1. Для Drupal версии 7.х https://github.com/e-publish/drupal_magic_site/blob/master/magicsite-7.x/magicsite
-2. Для Drupal версии 8.х https://github.com/e-publish/drupal_magic_site/blob/master/magicsite-8.x/magicsite
-3. Для Drupal версии > 8.8 (включая 9.x) https://github.com/e-publish/drupal_magic_site/blob/master/magicsite-9.x/magicsite
+1. Для Drupal версии 7.х https://github.com/vhar/drupal_magic_site/blob/master/magicsite-7.x/magicsite
+2. Для Drupal версии 8.х https://github.com/vhar/drupal_magic_site/blob/master/magicsite-8.x/magicsite
+3. Для Drupal версии > 8.8 (включая 9.x) https://github.com/vhar/drupal_magic_site/blob/master/magicsite-9.x/magicsite
 
 Инструкции по установке и настройке приведены в файлах README соответсвующих версий модуля.
-1. Для Drupal версии 7.х https://github.com/e-publish/drupal_magic_site/blob/master/magicsite-7.x/magicsite/README.md
-2. Для Drupal версии 8.х https://github.com/e-publish/drupal_magic_site/blob/master/magicsite-8.x/magicsite/README.md
-3. Для Drupal версии > 8.8 (включая 9.x) https://github.com/e-publish/drupal_magic_site/blob/master/magicsite-9.x/magicsite/README.md
+1. Для Drupal версии 7.х https://github.com/vhar/drupal_magic_site/blob/master/magicsite-7.x/magicsite/README.md
+2. Для Drupal версии 8.х https://github.com/vhar/drupal_magic_site/blob/master/magicsite-8.x/magicsite/README.md
+3. Для Drupal версии > 8.8 (включая 9.x) https://github.com/vhar/drupal_magic_site/blob/master/magicsite-9.x/magicsite/README.md
