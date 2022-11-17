@@ -21,7 +21,7 @@
 Drupal версии 8.8 и выше  
 
 # Установка с использованием модуля "Update Manager"
-1. Скачайте ZIP архив модуля https://github.com/vhar/drupal_magic_site/raw/master/magicsite-9.x.tar.gz
+1. Скачайте ZIP архив модуля https://dev2.epublish.ru/pub/drupal-magic-site/-/raw/master/magicsite-9.x.tar.gz
 2. Авторизуйтесь на вашем сайте под пользователем имеющим права на установку и настройку модулей
 3. В меню "Управление" кликните по ссылке "Расширения"
 4. В открывшемся окне нажмите кнопку "Установить новый модуль" ("Add new module")
@@ -36,7 +36,7 @@ Drupal версии 8.8 и выше
 Кликните по ссылке "Включить недавно добавленные модули" ("Enable newly added modules")
 
 # Установка вручную (без использования модуля "Update Manager")
-1. Скачайте ZIP архив модуля https://github.com/vhar/drupal_magic_site/raw/master/magicsite-9.x.tar.gz
+1. Скачайте ZIP архив модуля https://dev2.epublish.ru/pub/drupal-magic-site/-/raw/master/magicsite-9.x.tar.gz
 2. Распакуйте архив в папку /modules/custom вашего сайта.
 
 # Активация

@@ -21,7 +21,7 @@
 Drupal версии 7.х с установленным модулем jQuery Update (https://www.drupal.org/project/jquery_update)
 
 # Установка с использованием модуля "Update Manager"
-1. Скачайте ZIP архив модуля https://github.com/vhar/drupal_magic_site/raw/master/magicsite-7.x.tar.gz
+1. Скачайте ZIP архив модуля https://dev2.epublish.ru/pub/drupal-magic-site/-/raw/master/magicsite-7.x.tar.gz
 2. Авторизуйтесь на вашем сайте под пользователем имеющим права на установку и настройку модулей  
 3. В меню администратора кликните по ссылке "Модули"
 4. В открывшемся окне кликните по ссылке "Установить новый модуль"
@@ -36,7 +36,7 @@ Drupal версии 7.х с установленным модулем jQuery Upd
 Кликните по ссылке "Включить недавно добавленные модули" ("Enable newly added modules")
 
 # Установка вручную (без использования модуля "Update Manager")
-1. Скачайте ZIP архив модуля https://github.com/vhar/drupal_magic_site/raw/master/magicsite-7.x.tar.gz
+1. Скачайте ZIP архив модуля https://dev2.epublish.ru/pub/drupal-magic-site/-/raw/master/magicsite-7.x.tar.gz
 2. Распакуйте архив в папку /sites/all/modules вашего сайта.
 
 # Активация
